@@ -81,8 +81,10 @@ Future versions of the project can include:
 ![Robot](images/front.jpg)
 
 ### Circuit Diagram
-![Circuit](images/circuit diagram.jpg)
+![Circuit](images/circuit.jpg)
 
+### Side View
+![Side view](images/side.jpg)
 ## Conclusion
 
 The Obstacle Avoidance Robot Car successfully demonstrates autonomous navigation using simple electronic components and Arduino programming. It serves as an excellent beginner-friendly robotics project and provides a strong foundation for developing more advanced autonomous systems in the future.
